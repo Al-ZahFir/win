@@ -8,7 +8,7 @@
 > pkg install git
 > pkg install python
 > git clone https://github.com/Al-ZahFir/win
-> cd wingo
+> cd win
 
 ## untuk run
 > python main.py

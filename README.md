@@ -11,4 +11,4 @@
 > cd win
 
 ## untuk run
-> python main.py
+> python bet.py
